@@ -1,0 +1,42 @@
+span { 
+    font-style: italic;
+    background-color: rgba(52, 52, 199, 0.248);
+    color: rgb(85, 69, 132);
+}
+p{
+    font-size:x-large;
+}
+
+ol {
+    list-style: circle;
+    font-size: x-large;
+}
+.conteiner>img {
+width: 700px;
+text-align: right;
+
+}
+img {
+    float: right;
+}
+    
+.k-conteiner {
+    display: inline-block;
+   
+    border-width: 0.5px;
+    border-style: solid;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+}
+
+.nav-conteiner {
+
+    display: flex;
+    font-size: x-large;
+    
+    /* justify-content: space-between; */
+}
+
